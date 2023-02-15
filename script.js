@@ -98,10 +98,17 @@
 //x /= 1
 //console.log(x)
 //STEP 21
-const a = 10
-const b = 20
-const c = 30
-const result = (a < b && b < c) || (a === 10 && c !== 20)
+//const a = 10
+//const b = 20
+//const c = 30
+//const result = (a < b && b < c) || (a === 10 && c !== 20)
+//console.log(result)
+//STEP 22
+const x = 5
+const y = 10
+const z = 15
+
+const result = x > y || y > z
 console.log(result)
 
 
