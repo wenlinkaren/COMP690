@@ -77,10 +77,35 @@
 //STEP 14
 //alert(`Hello Zak Ruvalcaba.\nWelcome to the JavaScript class!`)
 //STEP 15
-let userName = prompt("Enter your name")
+//let userName = prompt("Enter your name")
 //STEP 16
-let courseName = prompt("Enter your course name")
-alert(`Hello ${userName}, welcome to the ${courseName} class!`)
+//let courseName = prompt("Enter your course name")
+//alert(`Hello ${userName}, welcome to the ${courseName} class!`)
 //STEP 17
+//const x = 10
+//const y = 20
+//console.log(x + y)
+//STEP 18
+//let x = 20
+//x += 20
+//console.log(x)
+//STEP 19
+//let x = 20
+//x *= 5
+//console.log(x)
+//STEP 20
+//let x = 20 % 3
+//x /= 1
+//console.log(x)
+//STEP 21
+const a = 10
+const b = 20
+const c = 30
+const result = (a < b && b < c) || (a === 10 && c !== 20)
+console.log(result)
+
+
+
+
 
 
