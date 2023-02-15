@@ -75,7 +75,12 @@
 //let course = "JavaScript"
 //alert(`Hello ${Name}, welcome to the ${course} class!`)
 //STEP 14
-alert(`Hello Zak Ruvalcaba.\nWelcome to the JavaScript class!`)
-
+//alert(`Hello Zak Ruvalcaba.\nWelcome to the JavaScript class!`)
+//STEP 15
+let userName = prompt("Enter your name")
+//STEP 16
+let courseName = prompt("Enter your course name")
+alert(`Hello ${userName}, welcome to the ${courseName} class!`)
+//STEP 17
 
 
