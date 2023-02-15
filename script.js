@@ -48,7 +48,15 @@
 //STEP 8
 let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."' //use the backslash to denote that the quote in the string
 console.log(someString)
+//STEP 9
+// Creating a variable that produces a null value
+const nullVar = null;
+console.log(nullVar); // null
 
+// Creating a variable that produces an undefined value
+let undefinedVar;
+console.log(undefinedVar); // undefined
+//STEP 10
 
 
 
