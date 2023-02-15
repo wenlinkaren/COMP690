@@ -29,8 +29,23 @@
 //city = "San Diego"
 //const state = "CA"
 //STEP 6
-let yourAge = 23
-console.log('This student is ' + yourAge + ' years.')
+//let yourAge = 23
+//console.log('This student is ' + yourAge + ' years.')
+//STEP 7
+// Adding a boolean and a string
+const boolVal = true;
+const strVal = "hello";
+
+const result1 = boolVal + strVal;
+console.log(result1); // "truehello"
+
+// Adding a number and a boolean
+const numVal = 10;
+const boolVal2 = true;
+
+const result2 = numVal + boolVal2;
+console.log(result2); // 11
+
 
 
 
