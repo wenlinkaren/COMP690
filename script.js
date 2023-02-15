@@ -33,18 +33,21 @@
 //console.log('This student is ' + yourAge + ' years.')
 //STEP 7
 // Adding a boolean and a string
-const boolVal = true;
-const strVal = "hello";
+//const boolVal = true;
+//const strVal = "hello";
 
-const result1 = boolVal + strVal;
-console.log(result1); // "truehello"
+//const result1 = boolVal + strVal;
+//console.log(result1); // "truehello"
 
 // Adding a number and a boolean
-const numVal = 10;
-const boolVal2 = true;
+//const numVal = 10;
+//const boolVal2 = true;
 
-const result2 = numVal + boolVal2;
-console.log(result2); // 11
+//const result2 = numVal + boolVal2;
+//console.log(result2); // 11
+//STEP 8
+let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."' //use the backslash to denote that the quote in the string
+console.log(someString)
 
 
 
