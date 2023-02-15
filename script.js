@@ -46,23 +46,29 @@
 //const result2 = numVal + boolVal2;
 //console.log(result2); // 11
 //STEP 8
-let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."' //use the backslash to denote that the quote in the string
-console.log(someString)
+//let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."' //use the backslash to denote that the quote in the string
+//console.log(someString)
 //STEP 9
 // Creating a variable that produces a null value
-const nullVar = null;
-console.log(nullVar); // null
+//const nullVar = null;
+//console.log(nullVar); // null
 
 // Creating a variable that produces an undefined value
-let undefinedVar;
-console.log(undefinedVar); // undefined
+//let undefinedVar;
+//console.log(undefinedVar); // undefined
 //STEP 10
-console.log(typeof "hello"); // "string"
-console.log(typeof 123); // "number"
-console.log(typeof true); // "boolean"
-console.log(typeof {}); // "object"
-console.log(typeof undefined); // "undefined"
+//console.log(typeof "hello"); // "string"
+//console.log(typeof 123); // "number"
+//console.log(typeof true); // "boolean"
+//console.log(typeof {}); // "object"
+//console.log(typeof undefined); // "undefined"
 //STEP 11
+let yourName
+yourName = "Zak Ruvalcaba"
+alert("Hello " + yourName +", welcome to the JavaScript class!")
+yourName = "Wenlin"
+alert(`Hello ${yourName}, welcome to the JavaScript class!`)
+//STEP 12
 
 
 
