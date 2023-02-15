@@ -63,12 +63,19 @@
 //console.log(typeof {}); // "object"
 //console.log(typeof undefined); // "undefined"
 //STEP 11
-let yourName
-yourName = "Zak Ruvalcaba"
-alert("Hello " + yourName +", welcome to the JavaScript class!")
-yourName = "Wenlin"
-alert(`Hello ${yourName}, welcome to the JavaScript class!`)
+//let yourName
+//yourName = "Zak Ruvalcaba"
+//alert("Hello " + yourName +", welcome to the JavaScript class!")
+//yourName = "Wenlin"
+//alert(`Hello ${yourName}, welcome to the JavaScript class!`)
 //STEP 12
+//let Name = "Wenlin He"
+//alert(`Hello ${Name}, welcome to the JavaScript class!`)
+//STEP 13
+//let course = "JavaScript"
+//alert(`Hello ${Name}, welcome to the ${course} class!`)
+//STEP 14
+alert(`Hello Zak Ruvalcaba.\nWelcome to the JavaScript class!`)
 
 
 
