@@ -57,7 +57,12 @@ console.log(nullVar); // null
 let undefinedVar;
 console.log(undefinedVar); // undefined
 //STEP 10
-
+console.log(typeof "hello"); // "string"
+console.log(typeof 123); // "number"
+console.log(typeof true); // "boolean"
+console.log(typeof {}); // "object"
+console.log(typeof undefined); // "undefined"
+//STEP 11
 
 
 
