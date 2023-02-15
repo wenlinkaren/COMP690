@@ -13,13 +13,21 @@ null 				// literal null value
 const max = x > y ? x : y;
 const strLength = str.length + getExtraLength(str); 
 //STEP 4
-let firstName
-let lastName
-let address
-let city
-let state
-let zipCode
-let yourAge
-let referralSource
-let mayWeContactYou
+//let firstName
+//let lastName
+//let address
+//let city
+//let state
+//let zipCode
+//let yourAge
+//let referralSource
+//let mayWeContactYou
+//STEP 5
+var lastName = "he"
+let address, city
+address = "111 hope road"
+city = "San Diego"
+const state = "CA"
+
+
 
